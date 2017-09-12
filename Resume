@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<style>
+body { background-color: linen; background-repeat: repeat-x;
+  margin: 0; padding: 0; }
+ul { padding: 0; }
+li { display: block; margin: 16px 20px;
+  color: #333; 
+  font-family: 'Fresca'; font-size: 24px; font-weight: 300;}
+p { color: #333;
+ font-family: 'Fresca'; font-size: 23px; font-weight: 300; }
+h1 { color: black; font-family: 'Raleway'; text-align: center;  
+ font-size: 68px; line-height: 60px; padding: 20px 10px; }
+h3 { color: #14213D; font-family: 'Abel', sans-serif;
+  font-size: 28px; text-transform: uppercase; }
+table, td, th { color: #333; font-family: 'Raleway', sans-serif;
+    font-size: 20px; font-weight: 300; }
+table { border-collapse: collapse; width: 92%; }
+td { padding: 10px; text-align: left;
+    border-bottom: 1px solid #00695c;
+    color: #14213D; font-family: 'Fresca'; font-size: 20px;
+    text-transform: uppercase; font-weight: 300; }
+th { padding: 10px; text-align: left;
+    border-bottom: 2px solid #00695c;
+    color: #14213D; font-family: 'Abel', sans-serif;
+    font-size: 24px; text-transform: uppercase; font-weight: 400;}
+* {box-sizing:border-box}.container {
+    width: 60%; background-color: #ddd; margin: auto; text-align: center;}
+.skills {text-align: right; padding-right: 20px;
+   line-height: 40px; color: white; }
+.c {width: 80%; background-color: #4CAF50;}
+.cpp {width: 75%; background-color: #2196F3;}
+.css {width: 65%; background-color: #14213D;} 
+.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s; width: 40%; margin: 0 auto; }
+</style>
+<body>
+<h1>RESUME</h1>
+<div class="products">
+<div class=producting>
+<p>
+       KIRTHIKA R S<br/>
+       5/5 V.NAGAR ROAD NO:7<br/>
+       RASIPURAM,<br/>
+       NAMAKKAL.<br/>
+       E-mail:kirthika.it15@bitsathy.ac.in<br/>
+       phone: +91 9688194700<br/>
+</p>
+</div>
+<h3>CAREER OBJECTIVE</h3>
+<div class=product>
+<p>To work in an environment where my skills can be applied and to keep up with the cutting edge technology where I can use my knowledge for the growth of the organization and the personal growth.</p>
+</div>
+<h3>EDUCATIONAL PROFILE</h3>
+<div class=product>
+<table>
+<tr>
+ <th>Course</th>
+ <th>Institution</th> 
+ <th>Year of Passing</th>
+ <th>Percentage</th>
+</tr>
+<tr>
+  <td>B.Tech.,IT.,</td>
+  <td>Bannari Amman Institute of Technology</td>
+  <td>2015-2019</td>
+  <td>79%</td>
+</tr>
+<tr>
+  <td>HSLC</td>
+  <td>SRV Hi-Tech Matric school</td>
+  <td>2015</td>
+  <td>91%</td>
+</tr>
+<tr>
+  <td>SSLC</td>
+  <td>Sri Vidya Mandir m.hr.sec school </td>
+  <td>2013</td>
+  <td>96%</td>
+</tr>
+</table>
+</div>
+<h3>AREA OF INTEREST</h3>
+<div class=product>
+<ul> <li>DBMS</li> <li>Web Development</li> <li>App development</li> <li>Data Structures</li> <li>Grapics</li> </ul>
+</div>
+<h3>LANGUAGES KNOWN</h3>
+<div class=product>
+<ul> <li>C</li> <li>C++</li> <li>JAVA</li> <li>HTML</li> <li>CSS</li></ul>
+</div>
+<h3>LANGUAGES THAT I SPEAK</h3>
+<div class=product>
+<ul> <li>Tamil</li> <li>Telugu</li><li>English</li> <li>Kannada</li> <li>Hindi</li> <li>Japanese</li></ul>
+</div>
+</html>
+
